@@ -5,7 +5,6 @@ Task 1 UDP client-server programs
 1.	Modify the UDP client program as follows:
 2.	
 a.	Create a menu with the following options:
-
     i.	Convert characters to uppercase letters.
   	
     ii.	Convert characters to lowercase letters.
@@ -22,12 +21,12 @@ a.	Create a menu with the following options:
   
 
 4.	Modify the UDP server program as follows:
-5.	
+	
   a.	Receive the client’s input (option and message).
 
   b.	Modify the message based on the option selected by the user.
   
-  c.	Return the modified message in the following ways
+  c.	Return the modified message in the following way
     i.	Convert the characters to uppercase letters, e.g., “Hello” becomes “HELLO”.
     ii.	Convert the characters to lowercase letters, e.g., “Hello” becomes “hello”.
     iii.	Reverse the order of the message, e.g., “Hello” becomes “olleH”.
